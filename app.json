@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "𝑶𝑳𝑰𝑽𝑬𝑹-𝑴𝑫 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻🤬🤬🤖",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/atiolie/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -12,9 +12,9 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "T",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;MZMD2RaA#jyI7SvUBOACF-Tv2lpq48jnb3Tx1PuVQazbTYVW-Gkg"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
