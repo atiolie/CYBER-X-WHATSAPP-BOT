@@ -14,7 +14,7 @@
         "SESSION_ID": {
             "description": "T",
             "required": true,
-            "value": "cyber-x@;;;MZMD2RaA#jyI7SvUBOACF-Tv2lpq48jnb3Tx1PuVQazbTYVW-Gkg"
+            "value": "cyber-x@;;;QJcRBBrI#gB3yVR0g1pt97Hpl7ZNICQVAi5d-E3Q7qD15MJ5gZRY"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
